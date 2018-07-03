@@ -118,6 +118,7 @@ Check out
   
 - [Publons](https://publons.com/home/)
 - [Academic Karma](http://academickarma.org/)
+- [F1000](https://f1000.com/)
 
 Pre-prints
 

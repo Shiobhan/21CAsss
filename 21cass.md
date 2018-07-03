@@ -123,7 +123,7 @@ Pre-prints
 
 - [arXiv](https://arxiv.org/)
 - [ASAPbio](http://asapbio.org/)
-- [OSF Preprints](https://osf.io/preprints ) </td>
+- [OUR Archive](https://ourarchive.otago.ac.nz/ ) </td>
 
   <td valign="top">Justin Farquhar  </td>
   </tr>

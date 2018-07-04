@@ -89,6 +89,8 @@ Choose a journal you've been considering submitting to or one you know in your f
 
 <strong>Go to [Think, Check, Submit](https://thinkchecksubmit.org/) and work through the checklist.</strong>
 
+[Macquarie Checklist](https://github.com/Shiobhan/21CAsss/blob/master/MQ_RV2_Checklist_for_Journals_Otago.pdf)
+
 For more on assessing publication venues see the Otago Libguide: [Research Publishing & Impact: Getting Published](https://otago.libguides.com/research_publishing_impact/getting_published)
   <td valign="top">Richard White</td>
   </tr>
